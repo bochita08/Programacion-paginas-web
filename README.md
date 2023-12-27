@@ -10,7 +10,31 @@ PHP es un lenguaje de programación del lado del servidor ampliamente utilizado 
 3. MySQL:
 MySQL es un sistema de gestión de bases de datos (DBMS) que se utiliza comúnmente en combinación con PHP para gestionar y almacenar datos de manera eficiente. Los profesionales de MySQL diseñan y mantienen bases de datos, garantizando un almacenamiento y recuperación eficientes de la información.
 
-4. WordPress:
-WordPress es una plataforma de gestión de contenido (CMS) que facilita la creación y administración de sitios web sin requerir conocimientos extensos de programación. A pesar de su enfoque amigable para los usuarios no técnicos, los desarrolladores de WordPress utilizan PHP, CSS y otras tecnologías para personalizar y ampliar las funcionalidades de los sitios, creando temas y complementos a medida.
 
 En conjunto, el sector de programación que abarca CSS, PHP, MySQL y WordPress es esencial para la creación de sitios web modernos y funcionales. Los profesionales en este campo desempeñan un papel vital en la construcción de experiencias en línea atractivas, interactivas y eficientes. Con el constante avance tecnológico, este sector sigue evolucionando, ofreciendo oportunidades emocionantes y desafíos constantes para aquellos dedicados a la programación web.
+
+
+IMAGENES:
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/69a2823f-e36e-441b-8751-a9ada5d40cb8)
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/064bbd46-a05e-4f3c-b7ef-3857f84440fe)
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/31f1b5e9-dd90-4fbe-89f9-a3aa5c693a01)
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/457e7d4f-d659-460e-b307-49590c4b59b0)
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/d73c1fc8-c0e2-4f15-a4c6-e28c9fcb9eb6)
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/16e56476-8ffe-4372-930d-3fed70cfe2b5)
+
+![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/d2e0f509-0a0a-4dc6-b659-b311e14ff176)
+
+
+
+
+
+
+
+
+
