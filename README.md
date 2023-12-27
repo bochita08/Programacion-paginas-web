@@ -20,15 +20,13 @@ IMAGENES:
 
 ![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/064bbd46-a05e-4f3c-b7ef-3857f84440fe)
 
-![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/31f1b5e9-dd90-4fbe-89f9-a3aa5c693a01)
-
 ![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/457e7d4f-d659-460e-b307-49590c4b59b0)
 
 ![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/d73c1fc8-c0e2-4f15-a4c6-e28c9fcb9eb6)
 
 ![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/16e56476-8ffe-4372-930d-3fed70cfe2b5)
 
-![image](https://github.com/bochita08/Programacion-paginas-web/assets/127541271/d2e0f509-0a0a-4dc6-b659-b311e14ff176)
+
 
 
 
