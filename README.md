@@ -8,7 +8,8 @@ CSS es un lenguaje de diseño utilizado para dar estilo y presentación a las p�
 PHP es un lenguaje de programación del lado del servidor ampliamente utilizado en el desarrollo web. Se centra en la creación de aplicaciones dinámicas, manipulación de datos y comunicación con bases de datos. Los programadores PHP son responsables de desarrollar funciones y scripts que permitan la interactividad y la personalización en tiempo real de los sitios web.
 
 3. MySQL:
-MySQL es un sistema de gestión de bases de datos (DBMS) que se utiliza comúnmente en combinación con PHP para gestionar y almacenar datos de manera eficiente. Los profesionales de MySQL diseñan y mantienen bases de datos, garantizando un almacenamiento y recuperación eficientes de la información.
+MySQL es un sistema de gestión de bases de datos (DBMS) que se utiliza comúnmente en combinación con PHP para gestionar y almacenar datos de manera eficiente.
+Los profesionales de MySQL diseñan y mantienen bases de datos, garantizando un almacenamiento y recuperación eficientes de la información.
 
 
 En conjunto, el sector de programación que abarca CSS, PHP, MySQL y WordPress es esencial para la creación de sitios web modernos y funcionales. Los profesionales en este campo desempeñan un papel vital en la construcción de experiencias en línea atractivas, interactivas y eficientes. Con el constante avance tecnológico, este sector sigue evolucionando, ofreciendo oportunidades emocionantes y desafíos constantes para aquellos dedicados a la programación web.
